@@ -1,4 +1,4 @@
-.env.local
+.env*
 
 
 # Windows thumbnail cache files
